@@ -1,0 +1,12 @@
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center;     /* vertical */
+  }
+
+.img { 
+    float: left; height: 300px; width: 300px; 
+};
